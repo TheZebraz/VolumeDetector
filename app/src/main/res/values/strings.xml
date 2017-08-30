@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Volume Detector</string>
+    <string name="sound_level_format">%.1f db</string>
+
+    <string name="exception_no_permissions">No audio permissions.</string>
+    <string name="all_permissions_rationale">For the application to work, you need to record the sound.</string>
+</resources>
